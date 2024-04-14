@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'Lucida Sans';
+}
+.medsos{
+    padding: 10px 0;
+    background-color: #651980;
+}
+.medsos ul li{
+    display: inline-block;
+    margin-right: 15px;
+}
+header h1{
+    border: 1px solid;
+    float: left;
+    pad: 10px 0;
+    color: #651980;
+}
+header ul{
+    border: 1px solid;
+    float: right;
+    color: #651980;
+}
+header ul li{
+    display: inline-block;
+    }
+header ul li a{
+    padding: 25 px 25 px;
+    display: inline-block;
+}
